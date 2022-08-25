@@ -1,5 +1,5 @@
 {
-  "name": "dm-medien/ns-helpdesk",
+  "name": "nitsan/ns-helpdesk",
   "type": "typo3-cms-extension",
   "description": "Create an individual ticket system",
   "license": "GPL-2.0+",
